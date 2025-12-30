@@ -15,8 +15,8 @@ const martianMono = Martian_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nexts.js App Demo",
-  description: "A simple Next.js app demo",
+  title: "Dev Events App Demo",
+  description: "A simple Dev Events app demo",
 };
 
 export default function RootLayout({
